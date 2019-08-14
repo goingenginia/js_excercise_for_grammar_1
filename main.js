@@ -1,14 +1,14 @@
 const lastName = "山田";
 const firstName = "太郎";
-const fullName = lastName + " " + firstName
+const fullName = lastName + " " + firstName;
 const myAge = 10;
 const friendAge = 13;
-const totalAge = myAge + friendAge
-const numberOfDays = 365*totalAge;
+const totalAge = myAge + friendAge;
+const numberOfDays = 365 * totalAge;
 const numberOfChildren = 3;
 const numberOfCakes = 10;
-const numberOfCakesByChild = numberOfCakes/numberOfChildren;
-const numberOfRestOfCakes = numberOfCakes%numberOfChildren;
+const numberOfCakesByChild = numberOfCakes / numberOfChildren;
+const numberOfRestOfCakes = numberOfCakes % numberOfChildren;
 
 console.log(lastName);
 console.log(firstName);
